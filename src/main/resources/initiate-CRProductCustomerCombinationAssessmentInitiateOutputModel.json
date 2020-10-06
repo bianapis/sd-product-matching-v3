@@ -1,0 +1,9 @@
+{
+  "productCustomerCombinationAssessmentInitiateActionRecord" : {},
+  "productCustomerCombinationAssessmentRequest" : "productCustomerCombinationAssessmentRequest",
+  "productCustomerCombinationAssessmentInitiateActionReference" : "PCCAIAR751319",
+  "productCustomerCombinationAssessmentParameterType" : "productCustomerCombinationAssessmentParameterType",
+  "productCustomerCombinationAssessmentInstanceReference" : "PCCAIR787755",
+  "productCustomerCombinationAssessmentInstanceStatus" : "productCustomerCombinationAssessmentInstanceStatus",
+  "productCustomerCombinationAssessmentSelectedOption" : "productCustomerCombinationAssessmentSelectedOption"
+}

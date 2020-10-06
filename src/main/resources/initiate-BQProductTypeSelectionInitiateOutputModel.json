@@ -1,0 +1,14 @@
+{
+  "productTypeSelectionInstanceReference" : "PTSIR757461",
+  "productTypeSelectionServiceType" : "productTypeSelectionServiceType",
+  "productTypeSelectionAnalysisSchedule" : "productTypeSelectionAnalysisSchedule",
+  "productTypeSelectionInitiateActionReference" : "PTSIAR749010",
+  "productTypeSelectionServiceDescription" : "productTypeSelectionServiceDescription",
+  "productTypeSelectionServiceName" : "productTypeSelectionServiceName",
+  "productTypeSelectionServiceWorkProduct" : "productTypeSelectionServiceWorkProduct",
+  "productTypeSelectionInitiateActionRecord" : {},
+  "productTypeSelectionPreconditions" : "productTypeSelectionPreconditions",
+  "productTypeSelectionVersionNumber" : "productTypeSelectionVersionNumber",
+  "productTypeSelectionServiceInputsandOuputs" : "productTypeSelectionServiceInputsandOuputs",
+  "productTypeSelectionInstanceStatus" : "productTypeSelectionInstanceStatus"
+}

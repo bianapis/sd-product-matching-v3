@@ -1,0 +1,12 @@
+{
+  "contextCriteriaAnalysisSchedule" : "contextCriteriaAnalysisSchedule",
+  "contextCriteriaUpdateActionTaskRecord" : {},
+  "contextCriteriaPreconditions" : "contextCriteriaPreconditions",
+  "updateResponseRecord" : {},
+  "contextCriteriaServiceType" : "contextCriteriaServiceType",
+  "contextCriteriaServiceInputsandOuputs" : "contextCriteriaServiceInputsandOuputs",
+  "contextCriteriaVersionNumber" : "contextCriteriaVersionNumber",
+  "contextCriteriaServiceWorkProduct" : "contextCriteriaServiceWorkProduct",
+  "contextCriteriaUpdateActionTaskReference" : "CCUATR753484",
+  "contextCriteriaServiceDescription" : "contextCriteriaServiceDescription"
+}

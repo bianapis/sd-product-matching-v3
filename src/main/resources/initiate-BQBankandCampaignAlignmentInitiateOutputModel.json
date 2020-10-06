@@ -1,0 +1,15 @@
+{
+  "bankandCampaignAlignmentServiceWorkProduct" : "bankandCampaignAlignmentServiceWorkProduct",
+  "bankandCampaignAlignmentServiceName" : "bankandCampaignAlignmentServiceName",
+  "bankandCampaignAlignmentInitiateActionRecord" : {},
+  "bankandCampaignAlignmentInstanceStatus" : "bankandCampaignAlignmentInstanceStatus",
+  "bankandCampaignAlignmentServiceDescription" : "bankandCampaignAlignmentServiceDescription",
+  "bankandCampaignAlignmentAnalysisSchedule" : "bankandCampaignAlignmentAnalysisSchedule",
+  "bankandCampaignAlignmentVersionNumber" : "bankandCampaignAlignmentVersionNumber",
+  "bankandCampaignAlignmentPreconditions" : "bankandCampaignAlignmentPreconditions",
+  "bankandCampaignAlignmentServiceInputsandOuputs" : "bankandCampaignAlignmentServiceInputsandOuputs",
+  "bankandCampaignAlignment" : "bankandCampaignAlignment",
+  "bankandCampaignAlignmentServiceType" : "bankandCampaignAlignmentServiceType",
+  "bankandCampaignAlignmentInitiateActionReference" : "BACAIAR774038",
+  "bankandCampaignAlignmentInstanceReference" : "BACAIR764229"
+}

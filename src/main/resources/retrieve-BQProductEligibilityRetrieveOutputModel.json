@@ -1,0 +1,25 @@
+{
+  "productEligibilityServiceWorkProduct" : "productEligibilityServiceWorkProduct",
+  "productEligibilityServiceName" : "productEligibilityServiceName",
+  "productEligibilityPreconditions" : "productEligibilityPreconditions",
+  "productEligibilityInstanceAnalysis" : {
+    "productEligibilityInstanceAnalysisReportType" : "productEligibilityInstanceAnalysisReportType",
+    "productEligibilityInstanceAnalysisRecord" : {},
+    "productEligibilityInstanceAnalysisParameters" : "productEligibilityInstanceAnalysisParameters",
+    "productEligibilityInstanceAnalysisReport" : {}
+  },
+  "productEligibilityAnalysisSchedule" : "productEligibilityAnalysisSchedule",
+  "productEligibilityRetrieveActionTaskReference" : "PERATR760164",
+  "productEligibilityInstanceReport" : {
+    "productEligibilityInstanceReportParameters" : "productEligibilityInstanceReportParameters",
+    "productEligibilityInstanceReportType" : "productEligibilityInstanceReportType",
+    "productEligibilityInstanceReport" : {},
+    "productEligibilityInstanceReportRecord" : {}
+  },
+  "productEligibilityRetrieveActionTaskRecord" : {},
+  "productEligibilityServiceType" : "productEligibilityServiceType",
+  "productEligibilityVersionNumber" : "productEligibilityVersionNumber",
+  "productEligibilityRetrieveActionResponse" : "productEligibilityRetrieveActionResponse",
+  "productEligibilityServiceInputsandOuputs" : "productEligibilityServiceInputsandOuputs",
+  "productEligibilityServiceDescription" : "productEligibilityServiceDescription"
+}

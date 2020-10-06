@@ -1,0 +1,25 @@
+{
+  "productTypeSelectionServiceName" : "productTypeSelectionServiceName",
+  "productTypeSelectionServiceWorkProduct" : "productTypeSelectionServiceWorkProduct",
+  "productTypeSelectionPreconditions" : "productTypeSelectionPreconditions",
+  "productTypeSelectionRetrieveActionResponse" : "productTypeSelectionRetrieveActionResponse",
+  "productTypeSelectionServiceInputsandOuputs" : "productTypeSelectionServiceInputsandOuputs",
+  "productTypeSelectionInstanceAnalysis" : {
+    "productTypeSelectionInstanceAnalysisRecord" : {},
+    "productTypeSelectionInstanceAnalysisReport" : {},
+    "productTypeSelectionInstanceAnalysisParameters" : "productTypeSelectionInstanceAnalysisParameters",
+    "productTypeSelectionInstanceAnalysisReportType" : "productTypeSelectionInstanceAnalysisReportType"
+  },
+  "productTypeSelectionInstanceReport" : {
+    "productTypeSelectionInstanceReportType" : "productTypeSelectionInstanceReportType",
+    "productTypeSelectionInstanceReportParameters" : "productTypeSelectionInstanceReportParameters",
+    "productTypeSelectionInstanceReportRecord" : {},
+    "productTypeSelectionInstanceReport" : {}
+  },
+  "productTypeSelectionServiceType" : "productTypeSelectionServiceType",
+  "productTypeSelectionAnalysisSchedule" : "productTypeSelectionAnalysisSchedule",
+  "productTypeSelectionRetrieveActionTaskReference" : "PTSRATR716247",
+  "productTypeSelectionServiceDescription" : "productTypeSelectionServiceDescription",
+  "productTypeSelectionRetrieveActionTaskRecord" : {},
+  "productTypeSelectionVersionNumber" : "productTypeSelectionVersionNumber"
+}

@@ -1,0 +1,26 @@
+{
+  "bankandCampaignAlignmentServiceWorkProduct" : "bankandCampaignAlignmentServiceWorkProduct",
+  "bankandCampaignAlignmentServiceName" : "bankandCampaignAlignmentServiceName",
+  "bankandCampaignAlignmentRetrieveActionTaskRecord" : {},
+  "bankandCampaignAlignmentServiceDescription" : "bankandCampaignAlignmentServiceDescription",
+  "bankandCampaignAlignmentAnalysisSchedule" : "bankandCampaignAlignmentAnalysisSchedule",
+  "bankandCampaignAlignmentInstanceAnalysis" : {
+    "bankandCampaignAlignmentInstanceAnalysisReportType" : "bankandCampaignAlignmentInstanceAnalysisReportType",
+    "bankandCampaignAlignmentInstanceAnalysisReport" : {},
+    "bankandCampaignAlignmentInstanceAnalysisRecord" : {},
+    "bankandCampaignAlignmentInstanceAnalysisParameters" : "bankandCampaignAlignmentInstanceAnalysisParameters"
+  },
+  "bankandCampaignAlignmentVersionNumber" : "bankandCampaignAlignmentVersionNumber",
+  "bankandCampaignAlignmentInstanceReport" : {
+    "bankandCampaignAlignmentInstanceReportRecord" : {},
+    "bankandCampaignAlignmentInstanceReport" : {},
+    "bankandCampaignAlignmentInstanceReportParameters" : "bankandCampaignAlignmentInstanceReportParameters",
+    "bankandCampaignAlignmentInstanceReportType" : "bankandCampaignAlignmentInstanceReportType"
+  },
+  "bankandCampaignAlignmentPreconditions" : "bankandCampaignAlignmentPreconditions",
+  "bankandCampaignAlignmentServiceInputsandOuputs" : "bankandCampaignAlignmentServiceInputsandOuputs",
+  "bankandCampaignAlignmentRetrieveActionResponse" : "bankandCampaignAlignmentRetrieveActionResponse",
+  "bankandCampaignAlignment" : "bankandCampaignAlignment",
+  "bankandCampaignAlignmentServiceType" : "bankandCampaignAlignmentServiceType",
+  "bankandCampaignAlignmentRetrieveActionTaskReference" : "BACARATR713394"
+}

@@ -1,0 +1,25 @@
+{
+  "productCustomerCombinationAssessmentRetrieveActionResponse" : "productCustomerCombinationAssessmentRetrieveActionResponse",
+  "productCustomerCombinationAssessmentInstanceAnalysis" : {
+    "productCustomerCombinationAssessmentInstanceAnalysisReport" : {},
+    "productCustomerCombinationAssessmentInstanceAnalysisData" : "productCustomerCombinationAssessmentInstanceAnalysisData",
+    "productCustomerCombinationAssessmentInstanceAnalysisReportType" : "productCustomerCombinationAssessmentInstanceAnalysisReportType"
+  },
+  "productCustomerCombinationAssessmentRetrieveActionTaskReference" : "PCCARATR769733",
+  "productCustomerCombinationAssessmentRequest" : "productCustomerCombinationAssessmentRequest",
+  "productCustomerCombinationAssessmentRetrieveActionTaskRecord" : {},
+  "productCustomerCombinationAssessmentUsageLog" : "productCustomerCombinationAssessmentUsageLog",
+  "productCustomerCombinationAssessmentType" : "productCustomerCombinationAssessmentType",
+  "productCustomerCombinationAssessmentSchedule" : "productCustomerCombinationAssessmentSchedule",
+  "productCustomerCombinationAssessmentStatus" : "productCustomerCombinationAssessmentStatus",
+  "productCustomerCombinationAssessmentInstanceReportRecord" : {
+    "productCustomerCombinationAssessmentInstanceReportData" : "productCustomerCombinationAssessmentInstanceReportData",
+    "productCustomerCombinationAssessmentInstanceReport" : {},
+    "productCustomerCombinationAssessmentInstanceReportType" : "productCustomerCombinationAssessmentInstanceReportType"
+  },
+  "productCustomerCombinationAssessmentParameterType" : "productCustomerCombinationAssessmentParameterType",
+  "productCustomerCombinationAssessmentSelectedOption" : "productCustomerCombinationAssessmentSelectedOption",
+  "productCustomerCombinationAssessmentReference" : "PCCAR746199",
+  "productCustomerCombinationAssessmentRequesterReference" : "PCCARR767937",
+  "productCustomerCombinationAssessmentServiceProviderReference" : "PCCASR746176"
+}

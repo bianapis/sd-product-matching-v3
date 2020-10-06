@@ -1,0 +1,11 @@
+{
+  "productCustomerCombinationAssessmentRequest" : "productCustomerCombinationAssessmentRequest",
+  "productCustomerCombinationAssessmentGrantActionTaskReference" : "PCCAGATR787627",
+  "productCustomerCombinationAssessmentGrantActionTaskRecord" : {},
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "productCustomerCombinationAssessmentParameterType" : "productCustomerCombinationAssessmentParameterType",
+  "productCustomerCombinationAssessmentSelectedOption" : "productCustomerCombinationAssessmentSelectedOption",
+  "grantRequestRecordReference" : "GRRR701402"
+}

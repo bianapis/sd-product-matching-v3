@@ -1,0 +1,13 @@
+{
+  "productTypeSelectionServiceType" : "productTypeSelectionServiceType",
+  "productTypeSelectionAnalysisSchedule" : "productTypeSelectionAnalysisSchedule",
+  "productTypeSelectionServiceDescription" : "productTypeSelectionServiceDescription",
+  "productTypeSelectionServiceName" : "productTypeSelectionServiceName",
+  "productTypeSelectionServiceWorkProduct" : "productTypeSelectionServiceWorkProduct",
+  "productTypeSelectionPreconditions" : "productTypeSelectionPreconditions",
+  "productTypeSelectionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "productTypeSelectionUpdateActionTaskReference" : "PTSUATR704716",
+  "productTypeSelectionVersionNumber" : "productTypeSelectionVersionNumber",
+  "productTypeSelectionServiceInputsandOuputs" : "productTypeSelectionServiceInputsandOuputs"
+}

@@ -1,0 +1,14 @@
+{
+  "bankandCampaignAlignmentServiceWorkProduct" : "bankandCampaignAlignmentServiceWorkProduct",
+  "bankandCampaignAlignmentServiceName" : "bankandCampaignAlignmentServiceName",
+  "bankandCampaignAlignmentVersionNumber" : "bankandCampaignAlignmentVersionNumber",
+  "bankandCampaignAlignmentPreconditions" : "bankandCampaignAlignmentPreconditions",
+  "bankandCampaignAlignmentServiceInputsandOuputs" : "bankandCampaignAlignmentServiceInputsandOuputs",
+  "bankandCampaignAlignmentUpdateActionTaskReference" : "BACAUATR781323",
+  "updateResponseRecord" : {},
+  "bankandCampaignAlignment" : "bankandCampaignAlignment",
+  "bankandCampaignAlignmentServiceType" : "bankandCampaignAlignmentServiceType",
+  "bankandCampaignAlignmentServiceDescription" : "bankandCampaignAlignmentServiceDescription",
+  "bankandCampaignAlignmentUpdateActionTaskRecord" : {},
+  "bankandCampaignAlignmentAnalysisSchedule" : "bankandCampaignAlignmentAnalysisSchedule"
+}

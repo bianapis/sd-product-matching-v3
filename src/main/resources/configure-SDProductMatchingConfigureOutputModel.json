@@ -1,0 +1,21 @@
+{
+  "productMatchingConfigurationActionTaskReference" : "SCATR765419",
+  "productMatchingServicingSessionStatus" : "productMatchingServicingSessionStatus",
+  "productMatchingServiceConfigurationRecord" : {
+    "productMatchingServiceConfigurationSetup" : {
+      "productMatchingServiceConfigurationParameter" : "productMatchingServiceConfigurationParameter"
+    },
+    "productMatchingServiceAgreement" : {
+      "productMatchingServiceAgreementTermsandConditions" : "productMatchingServiceAgreementTermsandConditions",
+      "productMatchingServiceUserReference" : "733696",
+      "productMatchingServiceAgreementReference" : "721156"
+    },
+    "productMatchingServiceConfigurationSettingDescription" : "productMatchingServiceConfigurationSettingDescription",
+    "productMatchingServiceStatus" : "productMatchingServiceStatus",
+    "productMatchingServiceSubscription" : {
+      "productMatchingServiceSubscriberReference" : "756221",
+      "productMatchingServiceSubscriberAccessProfile" : "productMatchingServiceSubscriberAccessProfile"
+    }
+  },
+  "productMatchingConfigurationActionTaskRecord" : {}
+}

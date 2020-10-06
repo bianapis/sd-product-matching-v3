@@ -1,0 +1,24 @@
+{
+  "contextCriteriaInstanceReport" : {
+    "contextCriteriaInstanceReportParameters" : "contextCriteriaInstanceReportParameters",
+    "contextCriteriaInstanceReport" : {},
+    "contextCriteriaInstanceReportRecord" : {},
+    "contextCriteriaInstanceReportType" : "contextCriteriaInstanceReportType"
+  },
+  "contextCriteriaAnalysisSchedule" : "contextCriteriaAnalysisSchedule",
+  "contextCriteriaRetrieveActionTaskRecord" : {},
+  "contextCriteriaPreconditions" : "contextCriteriaPreconditions",
+  "contextCriteriaInstanceAnalysis" : {
+    "contextCriteriaInstanceAnalysisParameters" : "contextCriteriaInstanceAnalysisParameters",
+    "contextCriteriaInstanceAnalysisRecord" : {},
+    "contextCriteriaInstanceAnalysisReportType" : "contextCriteriaInstanceAnalysisReportType",
+    "contextCriteriaInstanceAnalysisReport" : {}
+  },
+  "contextCriteriaServiceType" : "contextCriteriaServiceType",
+  "contextCriteriaServiceInputsandOuputs" : "contextCriteriaServiceInputsandOuputs",
+  "contextCriteriaRetrieveActionTaskReference" : "CCRATR729202",
+  "contextCriteriaRetrieveActionResponse" : "contextCriteriaRetrieveActionResponse",
+  "contextCriteriaVersionNumber" : "contextCriteriaVersionNumber",
+  "contextCriteriaServiceWorkProduct" : "contextCriteriaServiceWorkProduct",
+  "contextCriteriaServiceDescription" : "contextCriteriaServiceDescription"
+}

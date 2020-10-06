@@ -1,0 +1,14 @@
+{
+  "productEligibilityServiceWorkProduct" : "productEligibilityServiceWorkProduct",
+  "productEligibilityInitiateActionReference" : "PEIAR730747",
+  "productEligibilityServiceName" : "productEligibilityServiceName",
+  "productEligibilityInstanceStatus" : "productEligibilityInstanceStatus",
+  "productEligibilityPreconditions" : "productEligibilityPreconditions",
+  "productEligibilityServiceType" : "productEligibilityServiceType",
+  "productEligibilityAnalysisSchedule" : "productEligibilityAnalysisSchedule",
+  "productEligibilityVersionNumber" : "productEligibilityVersionNumber",
+  "productEligibilityInstanceReference" : "PEIR750937",
+  "productEligibilityServiceInputsandOuputs" : "productEligibilityServiceInputsandOuputs",
+  "productEligibilityInitiateActionRecord" : {},
+  "productEligibilityServiceDescription" : "productEligibilityServiceDescription"
+}

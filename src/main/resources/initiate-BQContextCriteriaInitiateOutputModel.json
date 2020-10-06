@@ -1,0 +1,13 @@
+{
+  "contextCriteriaInitiateActionRecord" : {},
+  "contextCriteriaInstanceStatus" : "contextCriteriaInstanceStatus",
+  "contextCriteriaAnalysisSchedule" : "contextCriteriaAnalysisSchedule",
+  "contextCriteriaInitiateActionReference" : "CCIAR722390",
+  "contextCriteriaPreconditions" : "contextCriteriaPreconditions",
+  "contextCriteriaServiceType" : "contextCriteriaServiceType",
+  "contextCriteriaServiceInputsandOuputs" : "contextCriteriaServiceInputsandOuputs",
+  "contextCriteriaVersionNumber" : "contextCriteriaVersionNumber",
+  "contextCriteriaServiceWorkProduct" : "contextCriteriaServiceWorkProduct",
+  "contextCriteriaInstanceReference" : "CCIR798847",
+  "contextCriteriaServiceDescription" : "contextCriteriaServiceDescription"
+}

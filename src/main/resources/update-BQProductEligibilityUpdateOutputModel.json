@@ -1,0 +1,13 @@
+{
+  "productEligibilityServiceWorkProduct" : "productEligibilityServiceWorkProduct",
+  "productEligibilityServiceName" : "productEligibilityServiceName",
+  "productEligibilityPreconditions" : "productEligibilityPreconditions",
+  "productEligibilityServiceType" : "productEligibilityServiceType",
+  "productEligibilityAnalysisSchedule" : "productEligibilityAnalysisSchedule",
+  "productEligibilityVersionNumber" : "productEligibilityVersionNumber",
+  "updateResponseRecord" : {},
+  "productEligibilityServiceInputsandOuputs" : "productEligibilityServiceInputsandOuputs",
+  "productEligibilityUpdateActionTaskReference" : "PEUATR717291",
+  "productEligibilityServiceDescription" : "productEligibilityServiceDescription",
+  "productEligibilityUpdateActionTaskRecord" : {}
+}
